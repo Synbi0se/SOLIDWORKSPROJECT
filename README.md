@@ -12,15 +12,12 @@
 - Bouton de selection ```25``` :
 - Réservoir ```43``` :
 
-### MISE EN PLAN
+### MISE EN PLAN :
 - Carter ```1``` :
 - Couvercle ```6``` :
 - Corps de molette droite ```76``` :
 
-### REPARTITION DE LA MODELISATION DES PIECES
-
-#### ⚠️❗DIMENSIONS DES PIECES
-(par numéros)
+### REPARTITION DE LA MODELISATION DES PIECES :
 
 Attribution : ```L```, ```R``` ou ```T```  
 Etat : ~ (en cours) ou X (fait)
@@ -31,7 +28,7 @@ Etat : ~ (en cours) ou X (fait)
 |2|  Anneau élastique 5x 0.6          |R |  |42| Bouchon                             |  |  |
 |3|  Pallier de roulement             |  |  |43| Réservoir                           |  |  |
 |4|  Roulement à bille SNR 5x16x5     |T |X |44| Bouton de réglage du débit d'air    |  |  |
-|5|  Joint d'étanchéité               |R |  |45| Pivot                               |T |~ |
+|5|  Joint d'étanchéité               |R |  |45| Pivot                               |T |X |
 |6|  Couvercle                        |R |  |46| Goupille élastique 3-14             |  |  |
 |7|  Vis sans fin                     |L |  |47| Corps du potentiomètre à air        |  |  |
 |8|  Molette                          |  |  |48| Pignon conique à 5 roues dentées    |L |  |
@@ -41,7 +38,7 @@ Etat : ~ (en cours) ou X (fait)
 |12| Joint à lèvre  type ET 15x9      |  |  |52| Anneau élastique 12x1               |R |  |
 |13| Roulement à billes SNR 7x19x6    |T |X |53| Couronne du réducteur               |  |  |
 |14| Axe de commande                  |  |  |54| Axe de satellite                    |  |  |
-|15| Guide du fil                     |  |  |55| Roulement à bille SNR 12x28x8       |T |X  |
+|15| Guide du fil                     |  |  |55| Roulement à bille SNR 12x28x8       |T |X |
 |16| Palier de roulement              |  |  |56| Palettes                            |  |  |
 |17| Arbre de la boite de vitesses    |  |  |57| Palier de roulement                 |  |  |
 |18| Pignon baladeur                  |  |  |58| Arbre du moteur pneumatique         |  |  |
