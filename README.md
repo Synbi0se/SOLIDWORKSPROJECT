@@ -24,18 +24,18 @@ Etat : ~ (en cours) ou X (fait)
 
 | n° | nom | par | ✅ | n° | nom | par | ✅ 
 |--|--|--:|--|--|--|--:|--|
-|1|  Carter                           |T |  |41| Anneau élastique 5x0.6              |R |  |
-|2|  Anneau élastique 5x 0.6          |R |  |42| Bouchon                             |  |  |
+|1|  Carter                           |T |  |41| Anneau élastique 5x0.6              |  |  |
+|2|  Anneau élastique 5x 0.6          |  |  |42| Bouchon                             |  |  |
 |3|  Pallier de roulement             |  |  |43| Réservoir                           |  |  |
 |4|  Roulement à bille SNR 5x16x5     |T |X |44| Bouton de réglage du débit d'air    |  |  |
-|5|  Joint d'étanchéité               |R |  |45| Pivot                               |T |X |
-|6|  Couvercle                        |R |  |46| Goupille élastique 3-14             |  |  |
+|5|  Joint d'étanchéité               |  |  |45| Pivot                               |T |X |
+|6|  Couvercle                        |  |  |46| Goupille élastique 3-14             |T |X |
 |7|  Vis sans fin                     |L |  |47| Corps du potentiomètre à air        |  |  |
 |8|  Molette                          |  |  |48| Pignon conique à 5 roues dentées    |L |  |
-|9|  Ecrou borgne M7                  |  |  |49| Porte satellite                     |R |  |
+|9|  Ecrou borgne M7                  |  |  |49| Porte satellite                     |  |  |
 |10| Pion à tête conique              |  |  |50| Roulement à bille SNR 8x22x7        |T |X |
 |11| Piston de réglage                |  |  |51| Calles de réglage                   |  |  |
-|12| Joint à lèvre  type ET 15x9      |  |  |52| Anneau élastique 12x1               |R |  |
+|12| Joint à lèvre  type ET 15x9      |  |  |52| Anneau élastique 12x1               |  |  |
 |13| Roulement à billes SNR 7x19x6    |T |X |53| Couronne du réducteur               |  |  |
 |14| Axe de commande                  |  |  |54| Axe de satellite                    |  |  |
 |15| Guide du fil                     |  |  |55| Roulement à bille SNR 12x28x8       |T |X |
@@ -53,10 +53,10 @@ Etat : ~ (en cours) ou X (fait)
 |27| Tétons                           |  |  |67| Goupille élastique 2.5-8      |  |  |
 |28| Jonc                             |  |  |68| Roulement à billes SNR 7x19x6 |  |  |
 |29| Manette de commande              |  |  |69| Roue dentée                   |  |  |
-|30| Anneau élastique 20x1.2          |R |  |70| Roulement à billes SNR 7x19x6 |  |  |
+|30| Anneau élastique 20x1.2          |  |  |70| Roulement à billes SNR 7x19x6 |  |  |
 |31| Ecrou                            |  |  |71| Rondelle                |  |  |
-|32| Anneau élastique 19x1.2          |R |  |72| Goupille élastique 2-12 |  |  |
-|33| Anneau élastique 4x0.4           |R |  |73| Anneau élastique 7x0.8  |R |  |
+|32| Anneau élastique 19x1.2          |  |  |72| Goupille élastique 2-12 |  |  |
+|33| Anneau élastique 4x0.4           |  |  |73| Anneau élastique 7x0.8  |  |  |
 |34| Roulement à billes SNR 4x13x5    |T |X |74| Axe porte-molette       |  |  |
 |35| Calles de réglage                |  |  |75| Corps de la molette gauche    |  |  |
 |36| Satellite                        |  |  |76| Corps de la molette droite    |  |  |
