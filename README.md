@@ -19,12 +19,18 @@
 
 ### REPARTITION DE LA MODELISATION DES PIECES :
 
-Attribution : ```L```, ```R``` ou ```T```  
+<div style="display:flex; width:790px; height:15px">
+<div style="background:#F02D28;width:90px"></div>
+<div style="background:white;width:700px"></div>
+</div>
+9/79 : 11,4%
+
+Attribution : ```L``` ou ```T```  
 Etat : ~ (en cours) ou X (fait)
 
 | n° | nom | par | ✅ | n° | nom | par | ✅ 
 |--|--|--:|--|--|--|--:|--|
-|1|  Carter                           |T |  |41| Anneau élastique 5x0.6              |  |  |
+|1|  Carter                           |T |~ |41| Anneau élastique 5x0.6              |  |  |
 |2|  Anneau élastique 5x 0.6          |  |  |42| Bouchon                             |  |  |
 |3|  Pallier de roulement             |  |  |43| Réservoir                           |  |  |
 |4|  Roulement à bille SNR 5x16x5     |T |X |44| Bouton de réglage du débit d'air    |  |  |
@@ -41,7 +47,7 @@ Etat : ~ (en cours) ou X (fait)
 |15| Guide du fil                     |  |  |55| Roulement à bille SNR 12x28x8       |T |X |
 |16| Palier de roulement              |  |  |56| Palettes                            |  |  |
 |17| Arbre de la boite de vitesses    |  |  |57| Palier de roulement                 |  |  |
-|18| Pignon baladeur                  |  |  |58| Arbre du moteur pneumatique         |  |  |
+|18| Pignon baladeur                  |  |  |58| Arbre du moteur pneumatique         |T |~ |
 |19| Vis sans tête fendue à bout plat |  |  |59| Corps du moteur pneumatique         |  |  |
 |20| Roulement à bille SNR 7x19x6     |T |X |60| Vis s tête à bout plat HC M3        |  |  |
 |21| Axe de selection des vitesses    |  |  |61| Calles de  réglage                  |  |  |
