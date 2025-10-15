@@ -22,12 +22,13 @@
 
 ### REPARTITION DE LA MODELISATION DES PIECES :
 
-<div style="display:flex;background:white;width:790px; height:15px">
+<div style="display:flex;background:white;width:791px; height:15px">
 <div style="background:#F02D28;width:170px"></div> <!-- Pièces réalisées x10 -->
+<div style="background:#FA8072;width:20px"></div>
 </div>
 17/79
 
-Attribution : ```T```  
+Attribution : ```PA``` ou ```T```  
 Etat : ~ (en cours) ou X (fait)
 
 |n°|nom|par|✅|n°|nom|par|✅|
@@ -48,8 +49,8 @@ Etat : ~ (en cours) ou X (fait)
 |14| Axe de commande                  |  |  |54| Axe de satellite                    |  |  |
 |15| Guide du fil                     |  |  |55| Roulement à bille SNR 12x28x8       |T |X |
 |16| Palier de roulement              |  |  |56| Palettes                            |T |X |
-|17| Arbre de la boite de vitesses    |  |  |57| Palier de roulement                 |  |  |
-|18| Pignon baladeur                  |  |  |58| Arbre du moteur pneumatique         |T |X w²|
+|17| Arbre de la boite de vitesses    |  |  |57| Palier de roulement                 |T |~ |
+|18| Pignon baladeur                  |  |  |58| Arbre du moteur pneumatique         |T |X |
 |19| Vis sans tête fendue à bout plat |  |  |59| Corps du moteur pneumatique         |  |  |
 |20| Roulement à bille SNR 7x19x6     |T |X |60| Vis s tête à bout plat HC M3        |  |  |
 |21| Axe de selection des vitesses    |  |  |61| Calles de  réglage                  |T |X |
