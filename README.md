@@ -35,7 +35,7 @@ Etat : ~ (en cours) ou X (fait)
 |--|--|--:|--|--|--|--:|--|
 |1|  Carter                           |T |~ |41| Anneau élastique 5x0.6              |  |  |
 |2|  Anneau élastique 5x 0.6          |  |  |42| Bouchon                             |T |X |
-|3|  Pallier de roulement             |  |  |43| Réservoir                           |  |  |
+|3|  Pallier de roulement             |PA|  |43| Réservoir                           |  |  |
 |4|  Roulement à bille SNR 5x16x5     |T |X |44| Bouton de réglage du débit d'air    |  |  |
 |5|  Joint d'étanchéité               |  |  |45| Pivot                               |T |X |
 |6|  Couvercle                        |  |  |46| Goupille élastique 3-14             |T |X |
@@ -48,7 +48,7 @@ Etat : ~ (en cours) ou X (fait)
 |13| Roulement à billes SNR 7x19x6    |T |X |53| Couronne du réducteur               |  |  |
 |14| Axe de commande                  |  |  |54| Axe de satellite                    |  |  |
 |15| Guide du fil                     |  |  |55| Roulement à bille SNR 12x28x8       |T |X |
-|16| Palier de roulement              |  |  |56| Palettes                            |T |X |
+|16| Palier de roulement              |PA|  |56| Palettes                            |T |X |
 |17| Arbre de la boite de vitesses    |  |  |57| Palier de roulement                 |T |X |
 |18| Pignon baladeur                  |  |  |58| Arbre du moteur pneumatique         |T |X |
 |19| Vis sans tête fendue à bout plat |  |  |59| Corps du moteur pneumatique         |  |  |
@@ -57,7 +57,7 @@ Etat : ~ (en cours) ou X (fait)
 |22| Boîtier                          |  |  |62| Gicleur                             |  |  |
 |23| Verrou                           |  |  |63| Joint d'étanchéité                  |T |X |
 |24| Ressort de verrou                |  |  |64| Couvercle                           |  |  |
-|25| Bouton de selection              |  |  |65| Joint d'étanchéité                  |  |  |
+|25| Bouton de selection              |  |  |65| Joint d'étanchéité                  |PA|  |
 |26| Tiges                            |  |  |66| Vis CL S M6                         |  |  |
 |27| Tétons                           |  |  |67| Goupille élastique 2.5-8            |  |  |
 |28| Jonc                             |  |  |68| Roulement à billes SNR 7x19x6       |T |X |
