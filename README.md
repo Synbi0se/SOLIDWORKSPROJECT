@@ -2,8 +2,13 @@
 
 # A RENDRE LE 2 DECEMBRE
 
-[Dossier PA](https://1drv.ms/f/c/67120e9d3ce2759b/EkoJcs02-JdMtQfi2x2pi4wByhyvB0BYKjpHCOzrFMJNcQ?e=0C5QHq)  
+[Dossier PA](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FivvSF7erxJ6g6PHNvglrI6sQmSl.jpg&f=1&nofb=1&ipt=f320b49c1a3301ed1860e8af9c63a1dd38bd00c671050249f7935f70b5eb9f88)  
 [Lien vers cette page](https://github.com/Synbi0se/SOLIDWORKSPROJECT)
+
+### A REVOIR
+- 1 le carter c'est bon ?
+- 2 les anneaux sont dans la bibliothèque ? où je les fais tout seul ?
+- revoir les pièces filletés, ça sert à rien de faire aussi compliqué
 
 ### EXTRACTION DE PIECES :
 - Arbre de la boite de vitesse ```17``` :
@@ -23,7 +28,7 @@
 ### REPARTITION DE LA MODELISATION DES PIECES :
 
 <div style="display:flex;background:white;width:791px; height:15px">
-<div style="background:#F02D28;width:190px"></div> <!-- Pièces réalisées x10 -->
+<div style="background:#F02D28;width:200px"></div> <!-- Pièces réalisées x10 -->
 <div style="background:#FA8072;width:10px"></div>
 </div>
 19/79
@@ -34,7 +39,7 @@ Etat : ~ (en cours) ou X (fait)
 |n°|nom|par|✅|n°|nom|par|✅|
 |--|--|--:|--|--|--|--:|--|
 |1|  Carter                           |T |~ |41| Anneau élastique 5x0.6              |  |  |
-|2|  Anneau élastique 5x 0.6          |  |  |42| Bouchon                             |T |X |
+|2|  Anneau élastique 5x 0.6          |T |X |42| Bouchon                             |T |X |
 |3|  Pallier de roulement             |PA|  |43| Réservoir                           |  |  |
 |4|  Roulement à bille SNR 5x16x5     |T |X |44| Bouton de réglage du débit d'air    |  |  |
 |5|  Joint d'étanchéité               |  |  |45| Pivot                               |T |X |
