@@ -26,12 +26,11 @@
 - Corps de molette droite ```76``` :
 
 ### REPARTITION DE LA MODELISATION DES PIECES :
-
 <div style="display:flex;background:white;width:791px; height:15px">
-<div style="background:#F02D28;width:200px"></div> <!-- Pièces réalisées x10 -->
+<div style="background:#F02D28;width:210px"></div> <!-- Pièces réalisées x10 -->
 <div style="background:#FA8072;width:10px"></div>
 </div>
-19/79
+21/79
 
 Attribution : ```PA``` ou ```T```  
 Etat : ~ (en cours) ou X (fait)
@@ -63,7 +62,7 @@ Etat : ~ (en cours) ou X (fait)
 |23| Verrou                           |  |  |63| Joint d'étanchéité                  |T |X |
 |24| Ressort de verrou                |  |  |64| Couvercle                           |  |  |
 |25| Bouton de selection              |  |  |65| Joint d'étanchéité                  |PA|  |
-|26| Tiges                            |  |  |66| Vis CL S M6                         |  |  |
+|26| Tiges                            |  |  |66| Vis CL S M6                         |T |X |
 |27| Tétons                           |  |  |67| Goupille élastique 2.5-8            |  |  |
 |28| Jonc                             |  |  |68| Roulement à billes SNR 7x19x6       |T |X |
 |29| Manette de commande              |  |  |69| Roue dentée                         |  |  |
