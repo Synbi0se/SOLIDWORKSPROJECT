@@ -27,19 +27,19 @@
 
 ### REPARTITION DE LA MODELISATION DES PIECES :
 <div style="display:flex;background:white;width:791px; height:15px">
-<div style="background:#F02D28;width:220px"></div> <!-- Pièces réalisées x10 -->
+<div style="background:#F02D28;width:230px"></div> <!-- Pièces réalisées x10 -->
 <div style="background:#FA8072;width:10px"></div>
 </div>
-22/79
+<div style="color:#F02D28">PA: 6 | T: LE RESTE</div>
+23/79
 
-Attribution : ```PA``` ou ```T```  
-Etat : ~ (en cours) ou X (fait)
+--
 
 |n°|nom|par|✅|n°|nom|par|✅|
 |--|--|--:|--|--|--|--:|--|
 |1|  Carter                           |T |X |41| Anneau élastique 5x0.6              |  |  |
 |2|  Anneau élastique 5x 0.6          |T |X |42| Bouchon                             |T |X |
-|3|  Pallier de roulement             |PA|  |43| Réservoir                           |T |  |
+|3|  Pallier de roulement             |PA|  |43| Réservoir                           |T |X |
 |4|  Roulement à bille SNR 5x16x5     |T |X |44| Bouton de réglage du débit d'air    |  |  |
 |5|  Joint d'étanchéité               |  |  |45| Pivot                               |T |X |
 |6|  Couvercle                        |  |  |46| Goupille élastique 3-14             |T |X |
@@ -47,7 +47,7 @@ Etat : ~ (en cours) ou X (fait)
 |8|  Molette                          |  |  |48| Pignon conique à 5 roues dentées    |  |  |
 |9|  Ecrou borgne M7                  |T |X |49| Porte satellite                     |  |  |
 |10| Pion à tête conique              |  |  |50| Roulement à bille SNR 8x22x7        |T |X |
-|11| Piston de réglage                |  |  |51| Calles de réglage                   |  |  |
+|11| Piston de réglage                |PA|  |51| Calles de réglage                   |  |  |
 |12| Joint à lèvre  type ET 15x9      |  |  |52| Anneau élastique 12x1               |  |  |
 |13| Roulement à billes SNR 7x19x6    |T |X |53| Couronne du réducteur               |  |  |
 |14| Axe de commande                  |  |  |54| Axe de satellite                    |  |  |
@@ -63,15 +63,15 @@ Etat : ~ (en cours) ou X (fait)
 |24| Ressort de verrou                |  |  |64| Couvercle                           |  |  |
 |25| Bouton de selection              |  |  |65| Joint d'étanchéité                  |PA|  |
 |26| Tiges                            |  |  |66| Vis CL S M6                         |T |X |
-|27| Tétons                           |  |  |67| Goupille élastique 2.5-8            |  |  |
+|27| Tétons                           |  |  |67| Goupille élastique 2.5-8            |PA|  |
 |28| Jonc                             |  |  |68| Roulement à billes SNR 7x19x6       |T |X |
-|29| Manette de commande              |  |  |69| Roue dentée                         |  |  |
+|29| Manette de commande              |PA?| |69| Roue dentée                         |  |  |
 |30| Anneau élastique 20x1.2          |  |  |70| Roulement à billes SNR 7x19x6       |T |X |
 |31| Ecrou                            |  |  |71| Rondelle                            |  |  |
 |32| Anneau élastique 19x1.2          |  |  |72| Goupille élastique 2-12             |  |  |
 |33| Anneau élastique 4x0.4           |  |  |73| Anneau élastique 7x0.8              |  |  |
 |34| Roulement à billes SNR 4x13x5    |T |X |74| Axe porte-molette                   |  |  |
-|35| Calles de réglage                |  |  |75| Corps de la molette gauche          |  |  |
+|35| Calles de réglage                |PA|  |75| Corps de la molette gauche          |  |  |
 |36| Satellite                        |  |  |76| Corps de la molette droite          |  |  |
 |37| Couvercle                        |  |  |77| Tige filetée                        |  |  |
 |38| Roulement à billes SNR 7x19x6    |T |X |78| Ressort de serrage du fil           |  |  |
