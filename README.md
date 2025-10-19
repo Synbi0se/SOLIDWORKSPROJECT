@@ -29,8 +29,9 @@
 <div style="display:flex;background:white;width:791px; height:15px">
 <div style="background:#F02D28;width:230px"></div> <!-- Pièces réalisées x10 -->
 <div style="background:#FA8072;width:10px"></div>
+<div style="background:#0B55F4;width:0px"></div> <!-- Pièces réalisées par PA x10 -->
+<div style="background:#6392F8;width:70px"></div> <!-- Pièces non faites par PA x10 -->
 </div>
-<div style="color:#F02D28">PA: 6 | T: LE RESTE</div>
 23/79
 
 --
@@ -65,7 +66,7 @@
 |26| Tiges                            |  |  |66| Vis CL S M6                         |T |X |
 |27| Tétons                           |  |  |67| Goupille élastique 2.5-8            |PA|  |
 |28| Jonc                             |  |  |68| Roulement à billes SNR 7x19x6       |T |X |
-|29| Manette de commande              |PA?| |69| Roue dentée                         |  |  |
+|29| Manette de commande              |PA| |69| Roue dentée                          |  |  |
 |30| Anneau élastique 20x1.2          |  |  |70| Roulement à billes SNR 7x19x6       |T |X |
 |31| Ecrou                            |  |  |71| Rondelle                            |  |  |
 |32| Anneau élastique 19x1.2          |  |  |72| Goupille élastique 2-12             |  |  |
