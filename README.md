@@ -6,8 +6,8 @@
 [Lien vers cette page](https://github.com/Synbi0se/SOLIDWORKSPROJECT)
 
 ### A REVOIR
-- 1 le carter c'est bon ?
 - 2 les anneaux sont dans la bibliothèque ? où je les fais tout seul ?
+- 59 finir les perçages
 - revoir les pièces filletés, ça sert à rien de faire aussi compliqué
 
 ### EXTRACTION DE PIECES :
@@ -27,19 +27,19 @@
 
 ### REPARTITION DE LA MODELISATION DES PIECES :
 <div style="display:flex;background:white;width:791px; height:15px">
-<div style="background:#F02D28;width:210px"></div> <!-- Pièces réalisées x10 -->
+<div style="background:#F02D28;width:220px"></div> <!-- Pièces réalisées x10 -->
 <div style="background:#FA8072;width:10px"></div>
 </div>
-21/79
+22/79
 
 Attribution : ```PA``` ou ```T```  
 Etat : ~ (en cours) ou X (fait)
 
 |n°|nom|par|✅|n°|nom|par|✅|
 |--|--|--:|--|--|--|--:|--|
-|1|  Carter                           |T |~ |41| Anneau élastique 5x0.6              |  |  |
+|1|  Carter                           |T |X |41| Anneau élastique 5x0.6              |  |  |
 |2|  Anneau élastique 5x 0.6          |T |X |42| Bouchon                             |T |X |
-|3|  Pallier de roulement             |PA|  |43| Réservoir                           |  |  |
+|3|  Pallier de roulement             |PA|  |43| Réservoir                           |T |  |
 |4|  Roulement à bille SNR 5x16x5     |T |X |44| Bouton de réglage du débit d'air    |  |  |
 |5|  Joint d'étanchéité               |  |  |45| Pivot                               |T |X |
 |6|  Couvercle                        |  |  |46| Goupille élastique 3-14             |T |X |
@@ -55,7 +55,7 @@ Etat : ~ (en cours) ou X (fait)
 |16| Palier de roulement              |PA|  |56| Palettes                            |T |X |
 |17| Arbre de la boite de vitesses    |  |  |57| Palier de roulement                 |T |X |
 |18| Pignon baladeur                  |  |  |58| Arbre du moteur pneumatique         |T |X |
-|19| Vis sans tête fendue à bout plat |  |  |59| Corps du moteur pneumatique         |  |  |
+|19| Vis sans tête fendue à bout plat |  |  |59| Corps du moteur pneumatique         |T |~ |
 |20| Roulement à bille SNR 7x19x6     |T |X |60| Vis s tête à bout plat HC M3        |  |  |
 |21| Axe de selection des vitesses    |  |  |61| Calles de  réglage                  |T |X |
 |22| Boîtier                          |  |  |62| Gicleur                             |  |  |
