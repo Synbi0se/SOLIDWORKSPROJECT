@@ -6,11 +6,12 @@
 [Lien vers cette page](https://github.com/Synbi0se/SOLIDWORKSPROJECT)
 
 ### A REVOIR
-- 1 esquisse (-)
-- 2 les anneaux sont dans la bibliothèque ? où je les fais tout seul ?
-- 59 finir les perçages
-- 64 esquisse (-)
-- revoir les pièces filletés, ça sert à rien de faire aussi compliqué
+- ```1``` esquisse (-)
+- ```2``` les anneaux sont dans la bibliothèque ? où je les fais tout seul ?
+- ```59``` finir les perçages
+- ```64``` esquisse (-)
+- revoir les ```pièces filletés```, ça sert à rien de faire aussi compliqué
+- ```TOUS``` revoir les matériaux
 
 ### EXTRACTION DE PIECES :
 - Arbre de la boite de vitesse ```17``` :
@@ -29,12 +30,12 @@
 
 ### REPARTITION DE LA MODELISATION DES PIECES :
 <div style="display:flex;background:white;width:791px; height:15px">
-<div style="background:#F02D28;width:260px"></div> <!-- Pièces réalisées x10 -->
+<div style="background:#F02D28;width:280px"></div> <!-- Pièces réalisées x10 -->
 <div style="background:#FA8072;width:10px"></div>
 <div style="background:#0B55F4;width:0px"></div> <!-- Pièces réalisées par PA x10 -->
 <div style="background:#8FB1FA;width:100px"></div> <!-- Pièces non faites par PA x10 -->
 </div>
-26/79
+28/79
 
 --
 
@@ -64,13 +65,13 @@
 |22| Boîtier                          |  |  |62| Gicleur                             |  |  |
 |23| Verrou                           |  |  |63| Joint d'étanchéité                  |T |X |
 |24| Ressort de verrou                |  |  |64| Couvercle                           |T |X |
-|25| Bouton de selection              |  |  |65| Joint d'étanchéité                  |PA|  |
+|25| Bouton de selection              |T |X |65| Joint d'étanchéité                  |PA|  |
 |26| Tiges                            |  |  |66| Vis CL S M6                         |T |X |
 |27| Tétons                           |T |X |67| Goupille élastique 2.5-8            |PA|  |
 |28| Jonc                             |  |  |68| Roulement à billes SNR 7x19x6       |T |X |
 |29| Manette de commande              |PA|  |69| Roue dentée                         |  |  |
 |30| Anneau élastique 20x1.2          |  |  |70| Roulement à billes SNR 7x19x6       |T |X |
-|31| Ecrou                            |  |  |71| Rondelle                            |  |  |
+|31| Ecrou                            |T |X |71| Rondelle                            |  |  |
 |32| Anneau élastique 19x1.2          |  |  |72| Goupille élastique 2-12             |  |  |
 |33| Anneau élastique 4x0.4           |  |  |73| Anneau élastique 7x0.8              |  |  |
 |34| Roulement à billes SNR 4x13x5    |T |X |74| Axe porte-molette                   |  |  |
