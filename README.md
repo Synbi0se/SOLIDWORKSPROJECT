@@ -30,12 +30,12 @@
 
 ### REPARTITION DE LA MODELISATION DES PIECES :
 <div style="display:flex;background:white;width:791px; height:15px">
-<div style="background:#F02D28;width:310px"></div> <!-- Pièces réalisées x10 -->
+<div style="background:#F02D28;width:340px"></div> <!-- Pièces réalisées x10 -->
 <div style="background:#FA8072;width:10px"></div>
 <div style="background:#0B55F4;width:0px"></div> <!-- Pièces réalisées par PA x10 -->
 <div style="background:#8FB1FA;width:100px"></div> <!-- Pièces non faites par PA x10 -->
 </div>
-31/79
+34/79
 
 --
 
@@ -54,15 +54,15 @@
 |11| Piston de réglage                |PA|  |51| Calles de réglage                   |PA|  |
 |12| Joint à lèvre  type ET 15x9      |  |  |52| Anneau élastique 12x1               |  |  |
 |13| Roulement à billes SNR 7x19x6    |T |X |53| Couronne du réducteur               |  |  |
-|14| Axe de commande                  |  |  |54| Axe de satellite                    |  |  |
-|15| Guide du fil                     |  |  |55| Roulement à bille SNR 12x28x8       |T |X |
+|14| Axe de commande                  |T |X |54| Axe de satellite                    |  |  |
+|15| Guide du fil                     |T |X |55| Roulement à bille SNR 12x28x8       |T |X |
 |16| Palier de roulement              |PA|  |56| Palettes                            |T |X |
 |17| Arbre de la boite de vitesses    |  |  |57| Palier de roulement                 |T |X |
 |18| Pignon baladeur                  |T |X |58| Arbre du moteur pneumatique         |T |X |
 |19| Vis sans tête fendue à bout plat |  |  |59| Corps du moteur pneumatique         |T |~ |
 |20| Roulement à bille SNR 7x19x6     |T |X |60| Vis s tête à bout plat HC M3        |T |X |
 |21| Axe de selection des vitesses    |T |X |61| Calles de  réglage                  |T |X |
-|22| Boîtier                          |  |  |62| Gicleur                             |T |  |
+|22| Boîtier                          |  |  |62| Gicleur                             |T |X |
 |23| Verrou                           |  |  |63| Joint d'étanchéité                  |T |X |
 |24| Ressort de verrou                |  |  |64| Couvercle                           |T |X |
 |25| Bouton de selection              |T |X |65| Joint d'étanchéité                  |PA|  |
