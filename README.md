@@ -8,12 +8,10 @@
 ### A REVOIR
 - ```1``` esquisse (-) & évacuation d'air et perçage d'entrée d'air
 - ```2``` les anneaux sont dans la bibliothèque ? où je les fais tout seul ? matériaux ?
-- ```24```, ```25``` matériau ?
+- ```27```,```24```, ```25``` matériau ?
 - ```37``` position des trous ?
 - ```59``` finir les perçages /!\ le cylindre intérieur est desaxé
 - ```64``` esquisse (-)
-- revoir les ```pièces filletés```, ça sert à rien de faire aussi compliqué
-- ```TOUS``` revoir les matériaux
 
 ### EXTRACTION DE PIECES :
 - Arbre de la boite de vitesse ```17``` :
@@ -32,12 +30,12 @@
 
 ### REPARTITION DE LA MODELISATION DES PIECES :
 <div style="display:flex;background:white;width:791px; height:15px">
-<div style="background:#F02D28;width:360px"></div> <!-- Pièces réalisées x10 -->
+<div style="background:#F02D28;width:390px"></div> <!-- Pièces réalisées x10 -->
 <div style="background:#FA8072;width:10px"></div>
 <div style="background:#0B55F4;width:30px"></div> <!-- Pièces réalisées par PA x10 -->
 <div style="background:#8FB1FA;width:90px"></div> <!-- Pièces non faites par PA x10 -->
 </div>
-39/79
+42/79
 
 --
 Hachurage simple : Alliage de zinc AC41A, brut
@@ -55,7 +53,7 @@ Remplissage noir :
 |7|  Vis sans fin                     |  |  |47| Corps du potentiomètre à air        |  |  |
 |8|  Molette                          |  |  |48| Pignon conique à 5 roues dentées    |  |  |
 |9|  Ecrou borgne M7                  |T |X |49| Porte satellite                     |PA|  |
-|10| Pion à tête conique              |  |  |50| Roulement à bille SNR 8x22x7        |T |X |
+|10| Pion à tête conique              |T |X |50| Roulement à bille SNR 8x22x7        |T |X |
 |11| Piston de réglage                |PA|  |51| Calles de réglage                   |PA|  |
 |12| Joint à lèvre  type ET 15x9      |  |  |52| Anneau élastique 12x1               |  |  |
 |13| Roulement à billes SNR 7x19x6    |T |X |53| Couronne du réducteur               |  |  |
@@ -76,7 +74,7 @@ Remplissage noir :
 |28| Jonc                             |  |  |68| Roulement à billes SNR 7x19x6       |T |X |
 |29| Manette de commande              |PA|  |69| Roue dentée                         |  |  |
 |30| Anneau élastique 20x1.2          |  |  |70| Roulement à billes SNR 7x19x6       |T |X |
-|31| Ecrou                            |T |X |71| Rondelle                            |  |  |
+|31| Ecrou                            |T |X |71| Rondelle                            |T |X |
 |32| Anneau élastique 19x1.2          |  |  |72| Goupille élastique 2-12             |  |  |
 |33| Anneau élastique 4x0.4           |  |  |73| Anneau élastique 7x0.8              |  |  |
 |34| Roulement à billes SNR 4x13x5    |T |X |74| Axe porte-molette                   |T |X |
