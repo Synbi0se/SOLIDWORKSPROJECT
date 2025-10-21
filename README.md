@@ -34,10 +34,10 @@
 <div style="display:flex;background:white;width:791px; height:15px">
 <div style="background:#F02D28;width:360px"></div> <!-- Pièces réalisées x10 -->
 <div style="background:#FA8072;width:10px"></div>
-<div style="background:#0B55F4;width:20px"></div> <!-- Pièces réalisées par PA x10 -->
-<div style="background:#8FB1FA;width:80px"></div> <!-- Pièces non faites par PA x10 -->
+<div style="background:#0B55F4;width:30px"></div> <!-- Pièces réalisées par PA x10 -->
+<div style="background:#8FB1FA;width:90px"></div> <!-- Pièces non faites par PA x10 -->
 </div>
-38/79
+39/79
 
 --
 Hachurage simple : Alliage de zinc AC41A, brut
@@ -46,7 +46,7 @@ Remplissage noir :
 
 |n°|nom|par|✅|n°|nom|par|✅|
 |--|--|--:|--|--|--|--:|--|
-|1|  Carter                           |T |X |41| Anneau élastique 5x0.6              |  |  |
+|1|  Carter                           |T |X |41| Anneau élastique 5x0.6              |PA|X |
 |2|  Anneau élastique 5x 0.6          |T |X |42| Bouchon                             |T |X |
 |3|  Pallier de roulement             |PA|  |43| Réservoir                           |T |X |
 |4|  Roulement à bille SNR 5x16x5     |T |X |44| Bouton de réglage du débit d'air    |  |  |
@@ -80,8 +80,8 @@ Remplissage noir :
 |32| Anneau élastique 19x1.2          |  |  |72| Goupille élastique 2-12             |  |  |
 |33| Anneau élastique 4x0.4           |  |  |73| Anneau élastique 7x0.8              |  |  |
 |34| Roulement à billes SNR 4x13x5    |T |X |74| Axe porte-molette                   |T |X |
-|35| Calles de réglage                |PA|X |75| Corps de la molette gauche          |  |  |
-|36| Satellite                        |  |  |76| Corps de la molette droite          |  |  |
+|35| Calles de réglage                |PA|  |75| Corps de la molette gauche          |  |  |
+|36| Satellite                        |PA|X |76| Corps de la molette droite          |  |  |
 |37| Couvercle                        |T |X |77| Tige filetée                        |  |  |
 |38| Roulement à billes SNR 7x19x6    |T |X |78| Ressort de serrage du fil           |  |  |
 |39| Logement de roulement            |  |  |79| Ecrou                               |  |  |
