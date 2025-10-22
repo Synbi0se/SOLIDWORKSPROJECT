@@ -8,7 +8,7 @@
 ### A REVOIR
 - ```1``` esquisse (-) & évacuation d'air et perçage d'entrée d'air
 - ```2``` les anneaux sont dans la bibliothèque ? où je les fais tout seul ? matériaux ?
-- ```27```,```24```, ```25``` matériau ?
+- ```10```,```27```,```24```, ```25``` matériau ?
 - ```37``` position des trous ?
 - ```59``` finir les perçages /!\ le cylindre intérieur est desaxé
 - ```64``` esquisse (-)
@@ -32,15 +32,15 @@
 <div style="display:flex;background:white;width:791px; height:15px">
 <div style="background:#F02D28;width:390px"></div> <!-- Pièces réalisées x10 -->
 <div style="background:#FA8072;width:10px"></div> <!-- Pièces en cours x10 -->
-<div style="background:#0B55F4;width:30px"></div> <!-- Pièces réalisées par PA x10 -->
-<div style="background:#8FB1FA;width:90px"></div> <!-- Pièces non faites par PA x10 -->
+<div style="background:#0B55F4;width:50px"></div> <!-- Pièces réalisées par PA x10 -->
+<div style="background:#8FB1FA;width:60px"></div> <!-- Pièces non faites par PA x10 -->
 </div>
-42/79
+45/79
 
---
-Hachurage simple : Alliage de zinc AC41A, brut
-Hachurage double : acier allié
-Remplissage noir :  
+--  
+Hachurage simple : Alliage de zinc AC41A, brut  
+Hachurage double : acier allié  
+Remplissage noir : _outils_, _options_, _propriété du document_, _propriété du matériau_, _remplissage_, _uni_  
 
 |n°|nom|par|✅|n°|nom|par|✅|
 |--|--|--:|--|--|--|--:|--|
@@ -54,7 +54,7 @@ Remplissage noir :
 |8|  Molette                          |  |  |48| Pignon conique à 5 roues dentées    |  |  |
 |9|  Ecrou borgne M7                  |T |X |49| Porte satellite                     |PA|  |
 |10| Pion à tête conique              |T |X |50| Roulement à bille SNR 8x22x7        |T |X |
-|11| Piston de réglage                |T |X |51| Calles de réglage                   |PA|  |
+|11| Piston de réglage                |T |X |51| Calles de réglage                   |PA|X |
 |12| Joint à lèvre  type ET 15x9      |  |  |52| Anneau élastique 12x1               |  |  |
 |13| Roulement à billes SNR 7x19x6    |T |X |53| Couronne du réducteur               |  |  |
 |14| Axe de commande                  |T |X |54| Axe de satellite                    |  |  |
@@ -78,7 +78,7 @@ Remplissage noir :
 |32| Anneau élastique 19x1.2          |  |  |72| Goupille élastique 2-12             |  |  |
 |33| Anneau élastique 4x0.4           |  |  |73| Anneau élastique 7x0.8              |  |  |
 |34| Roulement à billes SNR 4x13x5    |T |X |74| Axe porte-molette                   |T |X |
-|35| Calles de réglage                |PA|  |75| Corps de la molette gauche          |  |  |
+|35| Calles de réglage                |PA|X |75| Corps de la molette gauche          |  |  |
 |36| Satellite                        |PA|X |76| Corps de la molette droite          |  |  |
 |37| Couvercle                        |T |X |77| Tige filetée                        |  |  |
 |38| Roulement à billes SNR 7x19x6    |T |X |78| Ressort de serrage du fil           |  |  |
