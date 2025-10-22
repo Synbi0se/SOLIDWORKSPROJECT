@@ -8,6 +8,7 @@
 ### A REVOIR
 - ```1``` esquisse (-) & évacuation d'air et perçage d'entrée d'air
 - ```2``` les anneaux sont dans la bibliothèque ? où je les fais tout seul ? matériaux ?
+- ```17``` erreur dans le plan
 - ```10```,```27```,```24```, ```25``` matériau ?
 - ```37``` position des trous ?
 - ```59``` finir les perçages /!\ le cylindre intérieur est desaxé
@@ -30,12 +31,12 @@
 
 ### REPARTITION DE LA MODELISATION DES PIECES :
 <div style="display:flex;background:white;width:791px; height:15px">
-<div style="background:#F02D28;width:390px"></div> <!-- Pièces réalisées x10 -->
-<div style="background:#FA8072;width:10px"></div> <!-- Pièces en cours x10 -->
+<div style="background:#F02D28;width:460px"></div> <!-- Pièces réalisées x10 -->
+<div style="background:#FA8072;width:10px"></div>
 <div style="background:#0B55F4;width:50px"></div> <!-- Pièces réalisées par PA x10 -->
-<div style="background:#8FB1FA;width:60px"></div> <!-- Pièces non faites par PA x10 -->
+<div style="background:#8FB1FA;width:60px"></div>
 </div>
-45/79
+51/79
 
 --  
 Hachurage simple : Alliage de zinc AC41A, brut  
@@ -47,11 +48,11 @@ Remplissage noir : _outils_, _options_, _propriété du document_, _propriété 
 |1|  Carter                           |T |X |41| Anneau élastique 5x0.6              |PA|X |
 |2|  Anneau élastique 5x 0.6          |T |X |42| Bouchon                             |T |X |
 |3|  Pallier de roulement             |PA|  |43| Réservoir                           |T |X |
-|4|  Roulement à bille SNR 5x16x5     |T |X |44| Bouton de réglage du débit d'air    |  |  |
+|4|  Roulement à bille SNR 5x16x5     |T |X |44| Bouton de réglage du débit d'air    |T |X |
 |5|  Joint d'étanchéité               |PA|  |45| Pivot                               |T |X |
 |6|  Couvercle                        |  |  |46| Goupille élastique 3-14             |T |X |
 |7|  Vis sans fin                     |  |  |47| Corps du potentiomètre à air        |  |  |
-|8|  Molette                          |  |  |48| Pignon conique à 5 roues dentées    |  |  |
+|8|  Molette                          |T |X |48| Pignon conique à 5 roues dentées    |T |X |
 |9|  Ecrou borgne M7                  |T |X |49| Porte satellite                     |PA|  |
 |10| Pion à tête conique              |T |X |50| Roulement à bille SNR 8x22x7        |T |X |
 |11| Piston de réglage                |T |X |51| Calles de réglage                   |PA|X |
@@ -60,9 +61,9 @@ Remplissage noir : _outils_, _options_, _propriété du document_, _propriété 
 |14| Axe de commande                  |T |X |54| Axe de satellite                    |  |  |
 |15| Guide du fil                     |T |X |55| Roulement à bille SNR 12x28x8       |T |X |
 |16| Palier de roulement              |PA|  |56| Palettes                            |T |X |
-|17| Arbre de la boite de vitesses    |  |  |57| Palier de roulement                 |T |X |
+|17| Arbre de la boite de vitesses    |T |X |57| Palier de roulement                 |T |X |
 |18| Pignon baladeur                  |T |X |58| Arbre du moteur pneumatique         |T |X |
-|19| Vis sans tête fendue à bout plat |  |  |59| Corps du moteur pneumatique         |T |~ |
+|19| Vis sans tête fendue à bout plat |T |X |59| Corps du moteur pneumatique         |T |~ |
 |20| Roulement à bille SNR 7x19x6     |T |X |60| Vis s tête à bout plat HC M3        |T |X |
 |21| Axe de selection des vitesses    |T |X |61| Calles de  réglage                  |T |X |
 |22| Boîtier                          |  |  |62| Gicleur                             |T |X |
@@ -82,5 +83,5 @@ Remplissage noir : _outils_, _options_, _propriété du document_, _propriété 
 |36| Satellite                        |PA|X |76| Corps de la molette droite          |  |  |
 |37| Couvercle                        |T |X |77| Tige filetée                        |  |  |
 |38| Roulement à billes SNR 7x19x6    |T |X |78| Ressort de serrage du fil           |  |  |
-|39| Logement de roulement            |  |  |79| Ecrou                               |  |  |
+|39| Logement de roulement            |T |X |79| Ecrou                               |  |  |
 |40| Roulement à bille SNR 5x16x5     |T |X |
