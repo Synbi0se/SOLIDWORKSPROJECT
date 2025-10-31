@@ -10,11 +10,10 @@
 - ```2``` les anneaux sont dans la bibliothèque ? où je les fais tout seul ? matériaux ?
 - ```10```,```27```,```24```, ```25``` matériau ?
 - ```1```, ```5```, ```6``` vissage 
+- ```44``` mystère de la double ligne centrale, moletage sur la MeP
 
 #### POUR P-A
-- ```3``` refaire le chanfrein, ce n'est pas un chanfrein symétrique  
-Ajouter le filletage : _insertion_, _annotations_, _représentation de filletage_
-- ```5``` ajouter les deux trous
+- Avance sur tes pièces 
 
 ### EXTRACTION DE PIECES :
 - Arbre de la boite de vitesse ```17``` :
@@ -33,13 +32,13 @@ Ajouter le filletage : _insertion_, _annotations_, _représentation de filletage
 
 ### REPARTITION DE LA MODELISATION DES PIECES :
 <div style="display:flex;background:white;width:791px; height:15px">
-<div style="background:#F02D28;width:540px"></div> <!-- Pièces réalisées x10 -->
+<div style="background:#F02D28;width:550px"></div> <!-- Pièces réalisées x10 -->
 <div style="background:#FA8072;width:30px"></div>
-<div style="background:#0B55F4;width:60px"></div> <!-- Pièces réalisées par PA x10 -->
-<div style="background:#8FB1FA;width:40px"></div>
+<div style="background:#0B55F4;width:80px"></div> <!-- Pièces réalisées par PA x10 -->
+<div style="background:#8FB1FA;width:20px"></div>
 <div style="background:#999999;width:30px"></div>
 </div>
-60/79
+63/79
 
 --  
 Hachurage simple : Alliage de zinc AC41A, brut  
@@ -50,9 +49,9 @@ Remplissage noir : _outils_, _options_, _propriété du document_, _propriété 
 |--|--|--:|--|--|--|--:|--|
 |1|  Carter                           |T |~ |41| Anneau élastique 5x0.6              |PA|X |
 |2|  Anneau élastique 5x 0.6          |T |X |42| Bouchon                             |T |X |
-|3|  Pallier de roulement             |PA|~ |43| Réservoir                           |T |X |
-|4|  Roulement à bille SNR 5x16x5     |T |X |44| Bouton de réglage du débit d'air    |T |  |
-|5|  Joint d'étanchéité               |PA|~ |45| Pivot                               |T |X |
+|3|  Pallier de roulement             |PA|X |43| Réservoir                           |T |X |
+|4|  Roulement à bille SNR 5x16x5     |T |X |44| Bouton de réglage du débit d'air    |T |X |
+|5|  Joint d'étanchéité               |PA|X |45| Pivot                               |T |X |
 |6|  Couvercle                        |T |~ |46| Goupille élastique 3-14             |T |X |
 |7|  Vis sans fin                     |T |X |47| Corps du potentiomètre à air        |T |X |
 |8|  Molette                          |T |X |48| Pignon conique à 5 roues dentées    |T |X |
