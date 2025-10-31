@@ -33,7 +33,7 @@
 ### REPARTITION DE LA MODELISATION DES PIECES :
 <div style="display:flex;background:white;width:791px; height:15px">
 <div style="background:#F02D28;width:550px"></div> <!-- Pièces réalisées x10 -->
-<div style="background:#FA8072;width:30px"></div>
+<div style="background:#FA8072;width:40px"></div>
 <div style="background:#0B55F4;width:80px"></div> <!-- Pièces réalisées par PA x10 -->
 <div style="background:#8FB1FA;width:20px"></div>
 <div style="background:#999999;width:30px"></div>
@@ -65,7 +65,7 @@ Remplissage noir : _outils_, _options_, _propriété du document_, _propriété 
 |16| Palier de roulement              |PA|X |56| Palettes                            |T |X |
 |17| Arbre de la boite de vitesses    |T |X |57| Palier de roulement                 |T |X |
 |18| Pignon baladeur                  |T |X |58| Arbre du moteur pneumatique         |T |X |
-|19| Vis sans tête fendue à bout plat |T |X |59| Corps du moteur pneumatique         |T |  |
+|19| Vis sans tête fendue à bout plat |T |X |59| Corps du moteur pneumatique         |T |~ |
 |20| Roulement à bille SNR 7x19x6     |T |X |60| Vis s tête à bout plat HC M3        |T |X |
 |21| Axe de selection des vitesses    |T |X |61| Calles de  réglage                  |T |X |
 |22| Boîtier                          |T |X |62| Gicleur                             |T |X |
