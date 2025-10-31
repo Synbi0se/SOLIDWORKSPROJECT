@@ -33,13 +33,13 @@ Ajouter le filletage : _insertion_, _annotations_, _représentation de filletage
 
 ### REPARTITION DE LA MODELISATION DES PIECES :
 <div style="display:flex;background:white;width:791px; height:15px">
-<div style="background:#F02D28;width:520px"></div> <!-- Pièces réalisées x10 -->
-<div style="background:#FA8072;width:20px"></div>
+<div style="background:#F02D28;width:540px"></div> <!-- Pièces réalisées x10 -->
+<div style="background:#FA8072;width:30px"></div>
 <div style="background:#0B55F4;width:60px"></div> <!-- Pièces réalisées par PA x10 -->
 <div style="background:#8FB1FA;width:40px"></div>
 <div style="background:#999999;width:30px"></div>
 </div>
-58/79
+60/79
 
 --  
 Hachurage simple : Alliage de zinc AC41A, brut  
@@ -51,15 +51,15 @@ Remplissage noir : _outils_, _options_, _propriété du document_, _propriété 
 |1|  Carter                           |T |~ |41| Anneau élastique 5x0.6              |PA|X |
 |2|  Anneau élastique 5x 0.6          |T |X |42| Bouchon                             |T |X |
 |3|  Pallier de roulement             |PA|~ |43| Réservoir                           |T |X |
-|4|  Roulement à bille SNR 5x16x5     |T |X |44| Bouton de réglage du débit d'air    |T |X |
+|4|  Roulement à bille SNR 5x16x5     |T |X |44| Bouton de réglage du débit d'air    |T |  |
 |5|  Joint d'étanchéité               |PA|~ |45| Pivot                               |T |X |
 |6|  Couvercle                        |T |~ |46| Goupille élastique 3-14             |T |X |
-|7|  Vis sans fin                     |  |  |47| Corps du potentiomètre à air        |  |  |
+|7|  Vis sans fin                     |T |X |47| Corps du potentiomètre à air        |T |X |
 |8|  Molette                          |T |X |48| Pignon conique à 5 roues dentées    |T |X |
 |9|  Ecrou borgne M7                  |T |X |49| Porte satellite                     |PA|  |
 |10| Pion à tête conique              |T |X |50| Roulement à bille SNR 8x22x7        |T |X |
 |11| Piston de réglage                |T |X |51| Calles de réglage                   |PA|X |
-|12| Joint à lèvre  type ET 15x9      |  |  |52| Anneau élastique 12x1               |  |  |
+|12| Joint à lèvre type ET 15x9       |T |X |52| Anneau élastique 12x1               |  |  |
 |13| Roulement à billes SNR 7x19x6    |T |X |53| Couronne du réducteur               |  |  |
 |14| Axe de commande                  |T |X |54| Axe de satellite                    |T |X |
 |15| Guide du fil                     |T |X |55| Roulement à bille SNR 12x28x8       |T |X |
@@ -82,7 +82,7 @@ Remplissage noir : _outils_, _options_, _propriété du document_, _propriété 
 |32| Anneau élastique 19x1.2          |  |  |72| Goupille élastique 2-12             |PA|~ |
 |33| Anneau élastique 4x0.4           |  |  |73| Anneau élastique 7x0.8              |  |  |
 |34| Roulement à billes SNR 4x13x5    |T |X |74| Axe porte-molette                   |T |X |
-|35| Calles de réglage                |PA|X |75| Corps de la molette gauche          |  |  |
+|35| Calles de réglage                |PA|X |75| Corps de la molette gauche          |T |~ |
 |36| Satellite                        |PA|X |76| Corps de la molette droite          |  |  |
 |37| Couvercle                        |T |X |77| Tige filetée                        |T |X |
 |38| Roulement à billes SNR 7x19x6    |T |X |78| Ressort de serrage du fil           |T |X |
