@@ -32,12 +32,12 @@
 
 ### REPARTITION DE LA MODELISATION DES PIECES :
 <div style="display:flex;background:white;width:791px; height:15px">
-<div style="background:#F02D28;width:550px"></div> <!-- Pièces réalisées x10 -->
-<div style="background:#FA8072;width:40px"></div>
+<div style="background:#F02D28;width:560px"></div> <!-- Pièces réalisées x10 -->
+<div style="background:#FA8072;width:30px"></div>
 <div style="background:#0B55F4;width:130px"></div> <!-- Pièces réalisées par PA x10 -->
 <div style="background:#8FB1FA;width:40px"></div>
 </div>
-68/79
+69/79
 
 --  
 Hachurage simple : Alliage de zinc AC41A, brut  
