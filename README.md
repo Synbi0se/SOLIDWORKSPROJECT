@@ -1,15 +1,15 @@
 ![SolidWorks](rcs/logosw.png)
 
-# A RENDRE LE 2 DECEMBRE
-
-[Dossier PA](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FivvSF7erxJ6g6PHNvglrI6sQmSl.jpg&f=1&nofb=1&ipt=f320b49c1a3301ed1860e8af9c63a1dd38bd00c671050249f7935f70b5eb9f88)  
+# A RENDRE LE 2 DECEMBRE  
+![Coloriage](dessin_pistolet-A2_coloriage.png)
+[Dossier PA](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FivvSF7erxJ6g6PHNvglrI6sQmSl.jpg&f=1&nofb=1&ipt=f320b49c1a3301ed1860e8af9c63a1dd38bd00c671050249f7935f70b5eb9f88) , 
 [Lien vers cette page](https://github.com/Synbi0se/SOLIDWORKSPROJECT)
 
+
+
 ### A REVOIR
-- ```1``` esquisse (-), évacuation d'air, perçage d'entrée d'air & 46
-- ```2``` les anneaux sont dans la bibliothèque ? où je les fais tout seul ? matériaux ?
+- ```1``` évacuation d'air
 - ```10```,```27```,```24```, ```25``` matériau ?
-- ```1```, ```5```, ```6``` vissage 
 - ```44``` mystère de la double ligne centrale, moletage sur la MeP
 
 #### POUR P-A
@@ -34,11 +34,10 @@
 <div style="display:flex;background:white;width:791px; height:15px">
 <div style="background:#F02D28;width:550px"></div> <!-- Pièces réalisées x10 -->
 <div style="background:#FA8072;width:40px"></div>
-<div style="background:#0B55F4;width:80px"></div> <!-- Pièces réalisées par PA x10 -->
-<div style="background:#8FB1FA;width:20px"></div>
-<div style="background:#999999;width:30px"></div>
+<div style="background:#0B55F4;width:130px"></div> <!-- Pièces réalisées par PA x10 -->
+<div style="background:#8FB1FA;width:40px"></div>
 </div>
-63/79
+68/79
 
 --  
 Hachurage simple : Alliage de zinc AC41A, brut  
@@ -48,17 +47,17 @@ Remplissage noir : _outils_, _options_, _propriété du document_, _propriété 
 |n°|nom|par|✅|n°|nom|par|✅|
 |--|--|--:|--|--|--|--:|--|
 |1|  Carter                           |T |~ |41| Anneau élastique 5x0.6              |PA|X |
-|2|  Anneau élastique 5x 0.6          |T |X |42| Bouchon                             |T |X |
+|2|  Anneau élastique 5x0.6           |T |X |42| Bouchon                             |T |X |
 |3|  Pallier de roulement             |PA|X |43| Réservoir                           |T |X |
 |4|  Roulement à bille SNR 5x16x5     |T |X |44| Bouton de réglage du débit d'air    |T |X |
 |5|  Joint d'étanchéité               |PA|X |45| Pivot                               |T |X |
-|6|  Couvercle                        |T |~ |46| Goupille élastique 3-14             |T |X |
+|6|  Couvercle                        |T |X |46| Goupille élastique 3-14             |T |X |
 |7|  Vis sans fin                     |T |X |47| Corps du potentiomètre à air        |T |X |
 |8|  Molette                          |T |X |48| Pignon conique à 5 roues dentées    |T |X |
 |9|  Ecrou borgne M7                  |T |X |49| Porte satellite                     |PA|  |
 |10| Pion à tête conique              |T |X |50| Roulement à bille SNR 8x22x7        |T |X |
 |11| Piston de réglage                |T |X |51| Calles de réglage                   |PA|X |
-|12| Joint à lèvre type ET 15x9       |T |X |52| Anneau élastique 12x1               |  |  |
+|12| Joint à lèvre type ET 15x9       |T |X |52| Anneau élastique 12x1               |PA|X |
 |13| Roulement à billes SNR 7x19x6    |T |X |53| Couronne du réducteur               |  |  |
 |14| Axe de commande                  |T |X |54| Axe de satellite                    |T |X |
 |15| Guide du fil                     |T |X |55| Roulement à bille SNR 12x28x8       |T |X |
@@ -76,10 +75,10 @@ Remplissage noir : _outils_, _options_, _propriété du document_, _propriété 
 |27| Tétons                           |T |X |67| Goupille élastique 2.5-8            |PA|  |
 |28| Jonc                             |T |X |68| Roulement à billes SNR 7x19x6       |T |X |
 |29| Manette de commande              |PA|  |69| Roue dentée                         |  |  |
-|30| Anneau élastique 20x1.2          |PA|~ |70| Roulement à billes SNR 7x19x6       |T |X |
+|30| Anneau élastique 20x1.2          |PA|X |70| Roulement à billes SNR 7x19x6       |T |X |
 |31| Ecrou                            |T |X |71| Rondelle                            |T |X |
-|32| Anneau élastique 19x1.2          |  |  |72| Goupille élastique 2-12             |PA|~ |
-|33| Anneau élastique 4x0.4           |  |  |73| Anneau élastique 7x0.8              |  |  |
+|32| Anneau élastique 19x1.2          |PA|X |72| Goupille élastique 2-12             |PA|~ |
+|33| Anneau élastique 4x0.4           |PA|X |73| Anneau élastique 7x0.8              |PA|X |
 |34| Roulement à billes SNR 4x13x5    |T |X |74| Axe porte-molette                   |T |X |
 |35| Calles de réglage                |PA|X |75| Corps de la molette gauche          |T |~ |
 |36| Satellite                        |PA|X |76| Corps de la molette droite          |  |  |
