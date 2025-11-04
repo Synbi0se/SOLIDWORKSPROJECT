@@ -11,6 +11,7 @@
 - ```1``` évacuation d'air
 - ```10```,```27```,```24```, ```25``` matériau ?
 - ```44``` mystère de la double ligne centrale, moletage sur la MeP
+- ```75``` j'en suis incertain
 
 #### POUR P-A
 - Avance sur tes pièces 
@@ -32,12 +33,12 @@
 
 ### REPARTITION DE LA MODELISATION DES PIECES :
 <div style="display:flex;background:white;width:791px; height:15px">
-<div style="background:#F02D28;width:570px"></div> <!-- Pièces réalisées x10 -->
+<div style="background:#F02D28;width:580px"></div> <!-- Pièces réalisées x10 -->
 <div style="background:#FA8072;width:30px"></div>
 <div style="background:#0B55F4;width:130px"></div> <!-- Pièces réalisées par PA x10 -->
 <div style="background:#8FB1FA;width:40px"></div>
 </div>
-70/79
+71/79
 
 --  
 Hachurage simple : Alliage de zinc AC41A, brut  
@@ -80,7 +81,7 @@ Remplissage noir : _outils_, _options_, _propriété du document_, _propriété 
 |32| Anneau élastique 19x1.2          |PA|X |72| Goupille élastique 2-12             |PA|  |
 |33| Anneau élastique 4x0.4           |PA|X |73| Anneau élastique 7x0.8              |PA|X |
 |34| Roulement à billes SNR 4x13x5    |T |X |74| Axe porte-molette                   |T |X |
-|35| Calles de réglage                |PA|X |75| Corps de la molette gauche          |T |~ |
+|35| Calles de réglage                |PA|X |75| Corps de la molette gauche          |T |X |
 |36| Satellite                        |PA|X |76| Corps de la molette droite          |  |  |
 |37| Couvercle                        |T |X |77| Tige filetée                        |T |X |
 |38| Roulement à billes SNR 7x19x6    |T |X |78| Ressort de serrage du fil           |T |X |
