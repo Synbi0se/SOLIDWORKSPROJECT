@@ -32,12 +32,12 @@
 
 ### REPARTITION DE LA MODELISATION DES PIECES :
 <div style="display:flex;background:white;width:791px; height:15px">
-<div style="background:#F02D28;width:560px"></div> <!-- Pièces réalisées x10 -->
+<div style="background:#F02D28;width:570px"></div> <!-- Pièces réalisées x10 -->
 <div style="background:#FA8072;width:30px"></div>
 <div style="background:#0B55F4;width:130px"></div> <!-- Pièces réalisées par PA x10 -->
 <div style="background:#8FB1FA;width:40px"></div>
 </div>
-69/79
+70/79
 
 --  
 Hachurage simple : Alliage de zinc AC41A, brut  
@@ -58,7 +58,7 @@ Remplissage noir : _outils_, _options_, _propriété du document_, _propriété 
 |10| Pion à tête conique              |T |X |50| Roulement à bille SNR 8x22x7        |T |X |
 |11| Piston de réglage                |T |X |51| Calles de réglage                   |PA|X |
 |12| Joint à lèvre type ET 15x9       |T |X |52| Anneau élastique 12x1               |PA|X |
-|13| Roulement à billes SNR 7x19x6    |T |X |53| Couronne du réducteur               |  |  |
+|13| Roulement à billes SNR 7x19x6    |T |X |53| Couronne du réducteur               |T |X |
 |14| Axe de commande                  |T |X |54| Axe de satellite                    |T |X |
 |15| Guide du fil                     |T |X |55| Roulement à bille SNR 12x28x8       |T |X |
 |16| Palier de roulement              |PA|X |56| Palettes                            |T |X |
@@ -77,7 +77,7 @@ Remplissage noir : _outils_, _options_, _propriété du document_, _propriété 
 |29| Manette de commande              |PA|  |69| Roue dentée                         |  |  |
 |30| Anneau élastique 20x1.2          |PA|X |70| Roulement à billes SNR 7x19x6       |T |X |
 |31| Ecrou                            |T |X |71| Rondelle                            |T |X |
-|32| Anneau élastique 19x1.2          |PA|X |72| Goupille élastique 2-12             |PA|~ |
+|32| Anneau élastique 19x1.2          |PA|X |72| Goupille élastique 2-12             |PA|  |
 |33| Anneau élastique 4x0.4           |PA|X |73| Anneau élastique 7x0.8              |PA|X |
 |34| Roulement à billes SNR 4x13x5    |T |X |74| Axe porte-molette                   |T |X |
 |35| Calles de réglage                |PA|X |75| Corps de la molette gauche          |T |~ |
