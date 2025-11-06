@@ -17,19 +17,19 @@
 - Avance sur tes pièces 
 
 ### EXTRACTION DE PIECES :
-- Arbre de la boite de vitesse ```17``` :
-- Porte-satellites ```49``` :
-- Réservoir ```43``` :
+- Arbre de la boite de vitesse ```17``` : PA
+- Porte-satellites ```49``` : ??
+- Réservoir ```43``` : T
 
 ### PERSPECTIVE AU CRAYON :
-- Boitier ```22``` :
-- Bouton de selection ```25``` :
-- Réservoir ```43``` :
+- Boitier ```22``` : ??
+- Bouton de selection ```25``` : ??
+- Réservoir ```43``` : ??
 
 ### MISE EN PLAN :
-- Carter ```1``` :
-- Couvercle ```6``` :
-- Corps de molette droite ```76``` :
+- Carter ```1``` :  PA
+- Couvercle ```6``` : PA
+- Corps de molette droite ```76``` : T
 
 ### REPARTITION DE LA MODELISATION DES PIECES :
 <div style="display:flex;background:white;width:791px; height:15px">
@@ -41,8 +41,9 @@
 71/79
 
 --  
-Hachurage simple : Alliage de zinc AC41A, brut  
+Hachurage simple : alliage de zinc AC41A, brut  
 Hachurage double : acier allié  
+Hachurage cuivre : cuivre
 Remplissage noir : _outils_, _options_, _propriété du document_, _propriété du matériau_, _remplissage_, _uni_  
 
 |n°|nom|par|✅|n°|nom|par|✅|
