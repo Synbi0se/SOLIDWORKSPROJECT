@@ -10,7 +10,8 @@
 ### A REVOIR
 - ```1``` évacuation d'air
 - ```10```,```27```,```24```, ```25``` matériau ?
-- ```44``` mystère de la double ligne centrale, moletage sur la MeP
+- ```44``` , moletage sur la MeP
+- ```7```,```69``` pas de denture ?
 - ```75``` j'en suis incertain
 
 #### POUR P-A
@@ -33,12 +34,12 @@
 
 ### REPARTITION DE LA MODELISATION DES PIECES :
 <div style="display:flex;background:white;width:791px; height:15px">
-<div style="background:#F02D28;width:580px"></div> <!-- Pièces réalisées x10 -->
-<div style="background:#FA8072;width:30px"></div>
+<div style="background:#F02D28;width:590px"></div> <!-- Pièces réalisées x10 -->
+<div style="background:#FA8072;width:20px"></div>
 <div style="background:#0B55F4;width:130px"></div> <!-- Pièces réalisées par PA x10 -->
 <div style="background:#8FB1FA;width:40px"></div>
 </div>
-71/79
+72/79
 
 --  
 Hachurage simple : alliage de zinc AC41A, brut  
@@ -76,7 +77,7 @@ Remplissage noir : _outils_, _options_, _propriété du document_, _propriété 
 |26| Tiges                            |T |X |66| Vis CL S M6                         |T |X |
 |27| Tétons                           |T |X |67| Goupille élastique 2.5-8            |PA|  |
 |28| Jonc                             |T |X |68| Roulement à billes SNR 7x19x6       |T |X |
-|29| Manette de commande              |PA|  |69| Roue dentée                         |  |  |
+|29| Manette de commande              |PA|  |69| Roue dentée                         |T |X |
 |30| Anneau élastique 20x1.2          |PA|X |70| Roulement à billes SNR 7x19x6       |T |X |
 |31| Ecrou                            |T |X |71| Rondelle                            |T |X |
 |32| Anneau élastique 19x1.2          |PA|X |72| Goupille élastique 2-12             |PA|  |
