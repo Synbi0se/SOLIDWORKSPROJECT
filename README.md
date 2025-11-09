@@ -34,12 +34,12 @@
 
 ### REPARTITION DE LA MODELISATION DES PIECES :
 <div style="display:flex;background:white;width:791px; height:15px">
-<div style="background:#F02D28;width:590px"></div> <!-- Pièces réalisées x10 -->
+<div style="background:#F02D28;width:580px"></div> <!-- Pièces réalisées x10 -->
 <div style="background:#FA8072;width:20px"></div>
-<div style="background:#0B55F4;width:130px"></div> <!-- Pièces réalisées par PA x10 -->
-<div style="background:#8FB1FA;width:40px"></div>
+<div style="background:#0B55F4;width:160px"></div> <!-- Pièces réalisées par PA x10 -->
+<div style="background:#8FB1FA;width:20px"></div>
 </div>
-72/79
+74/79
 
 --  
 Hachurage simple : alliage de zinc AC41A, brut  
@@ -54,7 +54,7 @@ Remplissage noir : _outils_, _options_, _propriété du document_, _propriété 
 |3|  Pallier de roulement             |PA|X |43| Réservoir                           |T |X |
 |4|  Roulement à bille SNR 5x16x5     |T |X |44| Bouton de réglage du débit d'air    |T |X |
 |5|  Joint d'étanchéité               |PA|X |45| Pivot                               |T |X |
-|6|  Couvercle                        |T |X |46| Goupille élastique 3-14             |T |X |
+|6|  Couvercle                        |T |X |46| Goupille élastique 3-14             |PA|X |
 |7|  Vis sans fin                     |T |X |47| Corps du potentiomètre à air        |T |X |
 |8|  Molette                          |T |X |48| Pignon conique à 5 roues dentées    |T |X |
 |9|  Ecrou borgne M7                  |T |X |49| Porte satellite                     |PA|  |
@@ -75,12 +75,12 @@ Remplissage noir : _outils_, _options_, _propriété du document_, _propriété 
 |24| Ressort de verrou                |T |X |64| Couvercle                           |T |X |
 |25| Bouton de selection              |T |X |65| Joint d'étanchéité                  |PA|X |
 |26| Tiges                            |T |X |66| Vis CL S M6                         |T |X |
-|27| Tétons                           |T |X |67| Goupille élastique 2.5-8            |PA|  |
+|27| Tétons                           |T |X |67| Goupille élastique 2.5-8            |PA|X |
 |28| Jonc                             |T |X |68| Roulement à billes SNR 7x19x6       |T |X |
 |29| Manette de commande              |PA|  |69| Roue dentée                         |T |X |
 |30| Anneau élastique 20x1.2          |PA|X |70| Roulement à billes SNR 7x19x6       |T |X |
 |31| Ecrou                            |T |X |71| Rondelle                            |T |X |
-|32| Anneau élastique 19x1.2          |PA|X |72| Goupille élastique 2-12             |PA|  |
+|32| Anneau élastique 19x1.2          |PA|X |72| Goupille élastique 2-12             |PA|X |
 |33| Anneau élastique 4x0.4           |PA|X |73| Anneau élastique 7x0.8              |PA|X |
 |34| Roulement à billes SNR 4x13x5    |T |X |74| Axe porte-molette                   |T |X |
 |35| Calles de réglage                |PA|X |75| Corps de la molette gauche          |T |X |
