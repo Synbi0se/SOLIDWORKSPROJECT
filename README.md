@@ -7,15 +7,11 @@
 
 
 
-#### A REVOIR
+#### POUR TIMÉO
 - ```1``` évacuation d'air
-- ```10```,```27```,```24```, ```25``` matériau ?
-- ```22``` une horreur _a priori_
-- ```24``` refaire la pièce
-- ```44``` , moletage sur la MeP
-- ```7```,```69``` pas de denture ?
+- ```22``` une horreur _a priori_, c'est une seule pièce
+- ```44``` moletage sur la MeP
 - ```75``` j'en suis incertain
-- ```48``` revoir les dimensions
 
 ##### POUR P-A
 - Avance sur tes pièces 
