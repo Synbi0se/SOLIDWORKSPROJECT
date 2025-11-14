@@ -5,20 +5,23 @@
 [Dossier PA](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FivvSF7erxJ6g6PHNvglrI6sQmSl.jpg&f=1&nofb=1&ipt=f320b49c1a3301ed1860e8af9c63a1dd38bd00c671050249f7935f70b5eb9f88) , 
 [Lien vers cette page](https://github.com/Synbi0se/SOLIDWORKSPROJECT)
 
-
+    Erreurs sur le plan :
+    38 : ROULEMENT *5* 19 6
+    30 : anneau 20 *1*
 
 #### POUR TIMÉO
-- ```1``` évacuation d'air
+- ```1``` évacuation d'air dans le trou de droite et jsp trop
 - ```22``` une horreur _a priori_, c'est une seule pièce
-- ```44``` moletage sur la MeP
-- ```75``` j'en suis incertain
+- ```75``` ```76```
 
 ##### POUR P-A
 - Avance sur tes pièces 
 
 #### SUR L'ASSEMBLAGE
-- ```bouchondroite``` ajouter le ressort
 - ```47``` le trou est pas en face du trou du carter
+- ```52``` goupille mauvaise dimensions
+- ```69``` colision avec porte molette
+- ```72``` revoir la dimension
 
 
 ### EXTRACTION DE PIECES :
