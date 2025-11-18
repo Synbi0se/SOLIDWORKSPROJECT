@@ -8,18 +8,21 @@
     Erreurs sur le plan :
     38 : ROULEMENT *5* 19 6
     30 : anneau 20 *1*
+    52 : anneau *6 0.5*
+    14 : anneau *14 0.6*
 
 #### POUR TIMÉO
 - ```1``` évacuation d'air dans le trou de droite et jsp trop
 - ```22``` une horreur _a priori_, c'est une seule pièce
+- ```18``` refaire c'est nul !
 - ```75``` ```76```
 
 ##### POUR P-A
 - Avance sur tes pièces 
+- revoir les anneaux
 
 #### SUR L'ASSEMBLAGE
 - ```47``` le trou est pas en face du trou du carter
-- ```52``` goupille mauvaise dimensions
 - ```69``` colision avec porte molette
 - ```72``` revoir la dimension
 
