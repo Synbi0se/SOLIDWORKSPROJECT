@@ -1,9 +1,9 @@
-![SolidWorks](rcs/logosw.png)
+![SolidWorks](https://raw.githubusercontent.com/Synbi0se/SOLIDWORKSPROJECT/01741f80008c6c8369c5102b518e642b043dbc86/rcs/logosw.png)
 
 # A RENDRE LE 2 DECEMBRE  
-![Coloriage](dessin_pistolet-A2_coloriage.png)
+![Coloriage](https://raw.githubusercontent.com/Synbi0se/SOLIDWORKSPROJECT/a66067c623d234b0a1c597acc34b5ed08c709f61/docs%20%26%20plans/dessin_pistolet-A2_coloriage.png)
 [Dossier PA](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FivvSF7erxJ6g6PHNvglrI6sQmSl.jpg&f=1&nofb=1&ipt=f320b49c1a3301ed1860e8af9c63a1dd38bd00c671050249f7935f70b5eb9f88) , 
-[Lien vers cette page](https://github.com/Synbi0se/SOLIDWORKSPROJECT)
+[Lien GitHub](https://github.com/Synbi0se/SOLIDWORKSPROJECT)
 
     Erreurs sur le plan :
     38 : ROULEMENT *5* 19 6
@@ -13,7 +13,6 @@
 
 #### POUR TIMÉO
 - ```1``` évacuation d'air dans le trou de droite et jsp trop
-- ```22``` une horreur _a priori_, c'est une seule pièce
 - ```75``` ```76```
 - ```59``` trous
 
@@ -22,7 +21,6 @@
 
 #### SUR L'ASSEMBLAGE
 - ```47``` le trou est pas en face du trou du carter
-- revoir les dimensions horizontales
 
 
 ### EXTRACTION DE PIECES :
@@ -39,6 +37,11 @@
 - Carter ```1``` :  PA
 - Couvercle ```6``` : PA
 - Corps de molette droite ```76``` : T
+
+### EN PLUS
+- Ensemble du système : T
+- Vue éclatée : T
+- Animation du fonctionnement du système
 
 ### REPARTITION DE LA MODELISATION DES PIECES :
 <div style="display:flex;background:white;width:790px; height:15px">
