@@ -25,23 +25,23 @@
 
 ### EXTRACTION DE PIECES :
 - Arbre de la boite de vitesse ```17``` : PA
-- Porte-satellites ```49``` : ??
-- Réservoir ```43``` : T
+- Porte-satellites ```49``` : ❓
+- Réservoir ```43``` : T ✅
 
 ### PERSPECTIVE AU CRAYON :
-- Boitier ```22``` : ??
-- Bouton de selection ```25``` : ??
-- Réservoir ```43``` : ??
+- Boitier ```22``` : T
+- Bouton de selection ```25``` : ❓
+- Réservoir ```43``` : PA
 
 ### MISE EN PLAN :
 - Carter ```1``` :  PA
-- Couvercle ```6``` : PA
-- Corps de molette droite ```76``` : T
+- Couvercle ```6``` : PA 
+- Corps de molette droite ```76``` : T ✅
 
 ### EN PLUS
-- Ensemble du système : T
-- Vue éclatée : T
-- Animation du fonctionnement du système
+- Ensemble du système : T ✅
+- Vue éclatée : T 
+- Animation du fonctionnement du système : T
 
 ### REPARTITION DE LA MODELISATION DES PIECES :
 <div style="display:flex;background:white;width:790px; height:15px">
@@ -68,7 +68,7 @@ Remplissage noir : _outils_, _options_, _propriété du document_, _propriété 
 |6|  Couvercle                        |T |X |46| Goupille élastique 3-14             |PA|X |
 |7|  Vis sans fin                     |T |X |47| Corps du potentiomètre à air        |T |X |
 |8|  Molette                          |T |X |48| Pignon conique à 5 roues dentées    |T |X |
-|9|  Ecrou borgne M7                  |T |X |49| Porte satellite                     |PA|~ |
+|9|  Ecrou borgne M7                  |T |X |49| Porte satellite                     |PA|X |
 |10| Pion à tête conique              |T |X |50| Roulement à bille SNR 8x22x7        |T |X |
 |11| Piston de réglage                |T |X |51| Calles de réglage                   |PA|X |
 |12| Joint à lèvre type ET 15x9       |T |X |52| Anneau élastique 12x1               |PA|X |
