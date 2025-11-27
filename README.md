@@ -25,12 +25,12 @@
 
 ### EXTRACTION DE PIECES :
 - Arbre de la boite de vitesse ```17``` : PA
-- Porte-satellites ```49``` : ❓
+- Porte-satellites ```49``` : T
 - Réservoir ```43``` : T ✅
 
 ### PERSPECTIVE AU CRAYON :
 - Boitier ```22``` : T
-- Bouton de selection ```25``` : ❓
+- Bouton de selection ```25``` : PA
 - Réservoir ```43``` : PA
 
 ### MISE EN PLAN :
@@ -47,8 +47,8 @@
 <div style="display:flex;background:white;width:790px; height:15px">
 <div style="background:#F02D28;width:610px"></div> <!-- Pièces réalisées x10 -->
 <div style="background:#FA8072;width:00px"></div>
-<div style="background:#0B55F4;width:170px"></div> <!-- Pièces réalisées par PA x10 -->
-<div style="background:#8FB1FA;width:10px"></div>
+<div style="background:#0B55F4;width:180px"></div> <!-- Pièces réalisées par PA x10 -->
+<div style="background:#8FB1FA;width:00px"></div>
 </div>
 78/79
 
