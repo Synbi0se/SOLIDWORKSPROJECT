@@ -5,43 +5,30 @@
 [Dossier PA](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FivvSF7erxJ6g6PHNvglrI6sQmSl.jpg&f=1&nofb=1&ipt=f320b49c1a3301ed1860e8af9c63a1dd38bd00c671050249f7935f70b5eb9f88) , 
 [Lien GitHub](https://github.com/Synbi0se/SOLIDWORKSPROJECT)
 
-    Erreurs sur le plan :
-    38 : ROULEMENT *5* 19 6
-    30 : anneau 20 *1*
-    52 : anneau *6 0.5*
-    14 : anneau *14 0.6*
-
 #### POUR TIMÉO
 - ```1``` évacuation d'air dans le trou de droite et jsp trop
 - ```75``` ```76```
 - ```59``` trous
 
-##### POUR P-A
-- Avance sur tes pièces
-
-#### SUR L'ASSEMBLAGE
-- ```47``` le trou est pas en face du trou du carter
-
-
 ### EXTRACTION DE PIECES :
-- Arbre de la boite de vitesse ```17``` : PA
-- Porte-satellites ```49``` : T
+- Arbre de la boite de vitesse ```17``` : PA ❗
+- Porte-satellites ```49``` : T ✅
 - Réservoir ```43``` : T ✅
 
 ### PERSPECTIVE AU CRAYON :
-- Boitier ```22``` : T
-- Bouton de selection ```25``` : PA
-- Réservoir ```43``` : PA
+- Boitier ```22``` : T ♾️
+- Bouton de selection ```25``` : PA ❗
+- Réservoir ```43``` : PA❗
 
 ### MISE EN PLAN :
-- Carter ```1``` :  PA
-- Couvercle ```6``` : PA 
+- Carter ```1``` :  PA❗
+- Couvercle ```6``` : PA ❗
 - Corps de molette droite ```76``` : T ✅
 
 ### EN PLUS
 - Ensemble du système : T ✅
-- Vue éclatée : T 
-- Animation du fonctionnement du système : T
+- Vue éclatée : T ♾️
+- Animation du fonctionnement du système : T ♾️
 
 ### REPARTITION DE LA MODELISATION DES PIECES :
 <div style="display:flex;background:white;width:790px; height:15px">
