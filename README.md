@@ -19,8 +19,8 @@
 - Réservoir ```43``` : PA❗
 
 ### MISE EN PLAN :
-- Carter ```1``` :  PA❗
-- Couvercle ```6``` : PA ❗
+- Carter ```1``` : PA ✅
+- Couvercle ```6``` : PA ✅
 - Corps de molette droite ```76``` : T ✅
 
 ### EN PLUS
