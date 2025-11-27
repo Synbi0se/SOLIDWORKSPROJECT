@@ -1,6 +1,4 @@
 ![SolidWorks](https://raw.githubusercontent.com/Synbi0se/SOLIDWORKSPROJECT/01741f80008c6c8369c5102b518e642b043dbc86/rcs/logosw.png)
-
-# A RENDRE LE 2 DECEMBRE  
 ![Coloriage](https://raw.githubusercontent.com/Synbi0se/SOLIDWORKSPROJECT/a66067c623d234b0a1c597acc34b5ed08c709f61/docs%20%26%20plans/dessin_pistolet-A2_coloriage.png)
 [Dossier PA](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FivvSF7erxJ6g6PHNvglrI6sQmSl.jpg&f=1&nofb=1&ipt=f320b49c1a3301ed1860e8af9c63a1dd38bd00c671050249f7935f70b5eb9f88) , 
 [Lien GitHub](https://github.com/Synbi0se/SOLIDWORKSPROJECT)
@@ -28,7 +26,7 @@
 ### EN PLUS
 - Ensemble du système : T ✅
 - Vue éclatée : T ♾️
-- Animation du fonctionnement du système : T ♾️
+- Animation du fonctionnement du système : T ✅
 
 ### REPARTITION DE LA MODELISATION DES PIECES :
 <div style="display:flex;background:white;width:790px; height:15px">
@@ -37,13 +35,7 @@
 <div style="background:#0B55F4;width:180px"></div> <!-- Pièces réalisées par PA x10 -->
 <div style="background:#8FB1FA;width:00px"></div>
 </div>
-78/79
-
---  
-Hachurage simple : alliage de zinc AC41A, brut  
-Hachurage double : acier allié  
-Hachurage cuivre : cuivre  
-Remplissage noir : _outils_, _options_, _propriété du document_, _propriété du matériau_, _remplissage_, _uni_  
+79/79
 
 |n°|nom|par|✅|n°|nom|par|✅|
 |--|--|--:|--|--|--|--:|--|
