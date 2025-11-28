@@ -5,8 +5,6 @@
 
 #### POUR TIMÉO
 - ```1``` évacuation d'air dans le trou de droite et jsp trop
-- ```75``` ```76```
-- ```59``` trous
 
 ### EXTRACTION DE PIECES :
 - Arbre de la boite de vitesse ```17``` : PA ❗
