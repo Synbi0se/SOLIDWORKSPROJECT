@@ -23,7 +23,7 @@
 
 ### EN PLUS
 - Ensemble du système : T ✅
-- Vue éclatée : T ♾️
+- Vue éclatée : T ✅
 - Animation du fonctionnement du système : T ✅
 
 ### REPARTITION DE LA MODELISATION DES PIECES :
