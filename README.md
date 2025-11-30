@@ -3,16 +3,13 @@
 [Dossier PA](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FivvSF7erxJ6g6PHNvglrI6sQmSl.jpg&f=1&nofb=1&ipt=f320b49c1a3301ed1860e8af9c63a1dd38bd00c671050249f7935f70b5eb9f88) , 
 [Lien GitHub](https://github.com/Synbi0se/SOLIDWORKSPROJECT)
 
-#### POUR TIMÉO
-- ```1``` évacuation d'air dans le trou de droite et jsp trop
-
 ### EXTRACTION DE PIECES :
 - Arbre de la boite de vitesse ```17``` : PA ❗
 - Porte-satellites ```49``` : T ✅
 - Réservoir ```43``` : T ✅
 
 ### PERSPECTIVE AU CRAYON :
-- Boitier ```22``` : T ♾️
+- Boitier ```22``` : T ✅
 - Bouton de selection ```25``` : PA ❗
 - Réservoir ```43``` : PA❗
 
