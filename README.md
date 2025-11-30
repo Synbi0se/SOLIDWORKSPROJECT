@@ -4,7 +4,7 @@
 [Lien GitHub](https://github.com/Synbi0se/SOLIDWORKSPROJECT)
 
 ### EXTRACTION DE PIECES :
-- Arbre de la boite de vitesse ```17``` : PA ❗
+- Arbre de la boite de vitesse ```17``` : PA ✅
 - Porte-satellites ```49``` : T ✅
 - Réservoir ```43``` : T ✅
 
